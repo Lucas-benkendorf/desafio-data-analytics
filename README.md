@@ -87,7 +87,7 @@ O script `preparacao_dados.py` realizou:
 -  **Gráfico de Rosca** - Categorias mais vendidas
 -  **Gráfico de Colunas** - Distribuição por idade
 -  **Gráfico de Linha** - Tendência mensal de vendas
--  **Mapa/Mapa de Árvore** - Vendas por estado
+-  **Gráfico de Barra** - Vendas por estado
 -  **Matriz** - Relação idade vs categoria
 
 ###  Filtros Interativos
